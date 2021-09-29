@@ -1,0 +1,22 @@
+.users-cntr {
+  flex: 9;
+  overflow-y: auto;
+  border-right: 1px solid lightgray;
+}
+
+.users-wrapper {
+  padding: 0 32px;
+}
+
+button {
+  height: 32px;
+  width: 32px;
+  border: none;
+  border-radius: 50%;
+  background-color: rgb(211, 211, 211);
+}
+
+td,
+th {
+  text-align: center;
+}

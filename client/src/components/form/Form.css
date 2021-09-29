@@ -1,0 +1,11 @@
+.form-cntr {
+  flex: 3;
+}
+.form-wrapper {
+  padding: 16px;
+}
+.error-msg {
+  font-size: 0.8rem;
+  color: red;
+  position: relative;
+}
